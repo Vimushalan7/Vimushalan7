@@ -8,7 +8,7 @@
 - 📫 Reach me at **vimushalan@gmail.com**
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vimushalan-r-8b1b272a1/)
 
 ### Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
